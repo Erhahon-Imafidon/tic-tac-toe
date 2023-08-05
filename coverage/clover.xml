@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1691164916095" clover="3.2.0">
+  <project timestamp="1691164916095" name="All files">
+    <metrics statements="89" coveredstatements="29" conditionals="25" coveredconditionals="4" methods="33" coveredmethods="10" elements="147" coveredelements="43" complexity="0" loc="89" ncloc="89" packages="1" files="9" classes="9"/>
+    <file name="App.css" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\App.css">
+      <metrics statements="10" coveredstatements="4" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+    </file>
+    <file name="App.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\App.jsx">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="12" count="3" type="stmt"/>
+    </file>
+    <file name="FirstTest.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\FirstTest.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="Header.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\Header.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+    </file>
+    <file name="Home.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\Home.jsx">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="31" count="4" type="stmt"/>
+    </file>
+    <file name="Hooks.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\Hooks.jsx">
+      <metrics statements="11" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+    </file>
+    <file name="Layout.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\Layout.jsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+    </file>
+    <file name="MockDataTest.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\MockDataTest.jsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+    </file>
+    <file name="TicTac.jsx" path="C:\Users\Erhahon Imafidon\Documents\VSCODE\react-test\src\TicTac.jsx">
+      <metrics statements="50" coveredstatements="4" conditionals="17" coveredconditionals="0" methods="18" coveredmethods="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="0" type="stmt"/>
+      <line num="60" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="64" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="65" count="0" type="stmt"/>
+      <line num="67" count="0" type="stmt"/>
+      <line num="70" count="0" type="stmt"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="76" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="79" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="82" count="0" type="stmt"/>
+      <line num="89" count="0" type="stmt"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="91" count="0" type="stmt"/>
+      <line num="95" count="0" type="stmt"/>
+      <line num="96" count="0" type="stmt"/>
+      <line num="97" count="0" type="stmt"/>
+      <line num="101" count="0" type="stmt"/>
+      <line num="102" count="0" type="stmt"/>
+      <line num="103" count="0" type="stmt"/>
+      <line num="110" count="1" type="stmt"/>
+      <line num="111" count="0" type="stmt"/>
+      <line num="121" count="0" type="stmt"/>
+      <line num="122" count="0" type="stmt"/>
+      <line num="123" count="0" type="cond" truecount="0" falsecount="5"/>
+      <line num="124" count="0" type="stmt"/>
+      <line num="127" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
